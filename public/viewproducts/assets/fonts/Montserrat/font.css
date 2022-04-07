@@ -1,0 +1,22 @@
+@font-face {
+	font-family: 'Montserrat';
+	src:url('Montserrat-Regular.eot');
+	src:url('Montserrat-Regular.eot?#iefix') format('embedded-opentype'),
+		url('Montserrat-Regular.woff') format('woff'),
+		url('Montserrat-Regular.woff') format('woff2'),
+		url('Montserrat-Regular.ttf') format('truetype'),
+		url('Montserrat-Regular.svg#Montserrat-Regular') format('svg');
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Montserrat';
+	src:url('Montserrat-Bold.eot');
+	src:url('Montserrat-Bold.eot?#iefix') format('embedded-opentype'),
+		url('Montserrat-Bold.woff') format('woff'),
+		url('Montserrat-Bold.woff') format('woff2'),
+		url('Montserrat-Bold.ttf') format('truetype'),
+		url('Montserrat-Bold.svg#Montserrat-Bold') format('svg');
+	font-weight: 700;
+	font-style: normal;
+}
